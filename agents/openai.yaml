@@ -1,0 +1,4 @@
+interface:
+  display_name: "Resolver problemas complejos"
+  short_description: "Convierte preguntas complejas en decisiones con evidencia"
+  default_prompt: "Usa $resolver-problemas-complejos para estructurar la decisión, priorizar las pruebas y preparar una recomendación con la evidencia disponible."
